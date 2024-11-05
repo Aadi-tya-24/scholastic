@@ -1,3 +1,4 @@
 # scholastic
-web design for school search
+Web design for school search
+<br>
 Auther- Anushka Sonwal
